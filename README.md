@@ -23,7 +23,7 @@ Once the server is running, open your browser and navigate to `http://localhost:
 
 - Click on the "Create Note" button to add a new note.
 - Enter a title and content for the note in the provided fields.
-- Click the "Save" or "Add" button to create the note.
+- Click the "Add" button to create the note.
 
 ### Note Deletion
 
