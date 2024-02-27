@@ -9,11 +9,17 @@ This is a dynamic note-taking website created using React.
 
 ## Installation
 
-To run this project locally, follow these steps:
+# Runing locally:
 
 1. Clone this repository.
 2. Install dependencies using `npm install`.
 3. Start the React server with `npm start`.
+
+# Deploying on kubernetes
+1. Write this command
+```
+kubectl apply -f noteapp.yaml
+```
 
 ## Usage
 
